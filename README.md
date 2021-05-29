@@ -10,6 +10,7 @@ pretends to predict ancient Greek professions from
 names.
 
 Features that are demonstrated are:
+
     o Class/method setup
     o Unit testing in an object-oriented context
     o Argparse
