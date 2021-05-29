@@ -1,3 +1,5 @@
+# Why a project template?
+
 This project is a starter template for new student
 projects with Andreas Paepcke. It sets up a file 
 structure with a few files that illustrate style
@@ -14,7 +16,7 @@ Features that are demonstrated are:
     o Creation of executable script using #!
     o Use of setup.py
 
-# Creating new project from this template:
+# Creating new project from this template
 
     o Create your own repo on github, and note its clone URL,
         say git@github.com:john_doe/your_project.git
@@ -26,8 +28,8 @@ Features that are demonstrated are:
     o git clone git@github.com:john_doe/your_project.git
     o cd your_project
 
-You are now in your project root directory (<proj-root>)  
-
+You are now in your project root directory (<proj-root>). 
+    
 # Setup and install the example
 
 After cloning:
@@ -37,3 +39,5 @@ After cloning:
          conda new -s your_project
     o python setup.py install
   
+
+Replace the .py and test data files as needed.
