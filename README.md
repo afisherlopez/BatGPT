@@ -31,6 +31,7 @@ You are now in your project root directory (<proj-root>)
 # Setup and install the example
 
 After cloning:
+    
     o cd your_project
     o Optionally create an anaconda environment (highly recommended)
          conda new -s your_project
