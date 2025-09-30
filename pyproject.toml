@@ -4,15 +4,15 @@ requires = ["setuptools >= 64", "cython", "wheel"]
 
 [project]
 
-name = "my-project"
-description = "My very cool project"
+name = "BatGPT"
+description = "Analyzing bat chirps to identify words/phrases and create a dictionary of bat communication."
 version = "0.0.1"
 readme  = "README.md"
 authors = [
-  {name = "My Name", email = "myname@stanford.edu"}
+  {name = "Anna Fisher Lopez", email = "afishpez@stanford.edu"}
   ]
 maintainers = [
-  {name = "My Name", email = "myname@stanford.edu"}
+  {name = "Anna Fisher Lopez", email = "afishpez@stanford.edu"}
   ]
 license = "MIT"
 
@@ -39,8 +39,8 @@ exclude = ["mypackage.test", "mypackage.test.*"]
 
 [project.urls]
 
-Homepage = "https://github.com/paepcke/project_template.git"
-Documentation = "https://github.com/paepcke/project_template.git"
-Repository = "https://github.com/paepcke/project_template.git"
+Homepage = "https://github.com/afisherlopez/BatGPT.git"
+Documentation = "https://github.com/afisherlopez/BatGPT.git"
+Repository = "https://github.com/afisherlopez/BatGPT.git"
 
 
