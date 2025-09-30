@@ -36,7 +36,7 @@ as follows:
     o git clone git@github.com:john_doe/your_project.git
     o cd your_project
 
-Change to your <proj-root>.
+Change to your `<proj-root>`.
     
 # Setup and install the example
 
@@ -62,6 +62,8 @@ from PyPi. Then:
 ```
 pip install .
 ```
-  
+This command is how people will install your code after cloning your
+repo.
+
 
 
